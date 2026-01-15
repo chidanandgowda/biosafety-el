@@ -1,0 +1,58 @@
+Food_Category,Item,pH,Temperature_C,Shelf_Life_Days
+Fruit,Apple,3.6,20,7
+Fruit,Apple,3.6,4,28
+Fruit,Bananas,4.8,20,5
+Fruit,Bananas,4.8,4,9
+Fruit,Blueberries,3.2,4,14
+Fruit,Blueberries,3.2,-18,365
+Fruit,Cherries,4.0,4,7
+Fruit,Cherries,4.0,-18,365
+Fruit,Grapes,3.3,4,7
+Fruit,Lemons,2.3,20,14
+Fruit,Lemons,2.3,4,30
+Fruit,Oranges,3.6,20,14
+Fruit,Oranges,3.6,4,30
+Fruit,Peaches,3.8,4,5
+Fruit,Strawberries,3.3,4,3
+Fruit,Strawberries,3.3,-18,240
+Fruit,Tomatoes,4.5,20,7
+Fruit,Tomatoes,4.5,4,14
+Vegetable,Asparagus,6.5,4,4
+Vegetable,Beans (Green),6.0,4,7
+Vegetable,Broccoli,6.5,4,5
+Vegetable,Cabbage,6.0,4,14
+Vegetable,Carrots,6.0,4,28
+Vegetable,Cauliflower,6.3,4,7
+Vegetable,Corn,6.5,4,3
+Vegetable,Cucumbers,5.5,20,4
+Vegetable,Cucumbers,5.5,4,7
+Vegetable,Lettuce,6.0,4,7
+Vegetable,Onions,5.5,20,30
+Vegetable,Potatoes,6.1,20,60
+Vegetable,Spinach,6.2,4,4
+Vegetable,Mushrooms,6.5,4,5
+Dairy,Milk,6.6,4,7
+Dairy,Milk,6.6,20,0.2
+Dairy,Cheddar Cheese,5.9,4,180
+Dairy,Yogurt,4.5,4,14
+Dairy,Butter,6.2,4,90
+Dairy,Butter,6.2,-18,365
+Meat,Beef (Raw),5.6,4,4
+Meat,Beef (Raw),5.6,-18,180
+Meat,Chicken (Raw),6.6,4,2
+Meat,Chicken (Raw),6.6,-18,270
+Meat,Pork (Raw),5.8,4,4
+Meat,Pork (Raw),5.8,-18,180
+Fish,Salmon (Raw),6.2,4,2
+Fish,Salmon (Raw),6.2,-18,90
+Bakery,Bread,5.6,20,5
+Bakery,Bread,5.6,4,14
+Bakery,Bread,5.6,-18,90
+Condiment,Ketchup,3.9,20,30
+Condiment,Ketchup,3.9,4,180
+Condiment,Mayonnaise,4.2,4,60
+Condiment,Mustard,3.6,4,365
+Condiment,Honey,3.9,20,730
+Beverage,Orange Juice,3.5,4,7
+Beverage,Apple Juice,3.6,20,90
+Beverage,Apple Juice,3.6,4,10
